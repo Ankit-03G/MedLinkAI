@@ -1,4 +1,4 @@
-const GoogleAPI = prompt("Please enter your API key for Google Gemini Pro:");
+const GoogleAPI = prompt("AIzaSyCU61bjdi_aFnRvddloZECgEomR_fLxt2o");
 const GoogleAIVersion = '/v1/models/gemini-pro';
 
 function appendChatHistory(role, text) {
